@@ -1,0 +1,755 @@
+[
+  {
+    "matchup": {
+      "is_consolation": 0,
+      "is_matchup_recap_available": 1,
+      "is_playoffs": 0,
+      "is_tied": 0,
+      "matchup_grades": [
+        {
+          "matchup_grade": {
+            "grade": "D",
+            "team_key": "423.l.496624.t.1"
+          }
+        },
+        {
+          "matchup_grade": {
+            "grade": "A-",
+            "team_key": "423.l.496624.t.4"
+          }
+        }
+      ],
+      "matchup_recap_title": "Grogus Gang Dominates Cobra Ky in Week 1",
+      "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/recap?week=1&mid1=1&mid2=4",
+      "status": "postevent",
+      "teams": [
+        {
+          "team": {
+            "draft_grade": "A+",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/1/draftrecap",
+            "has_draft_grade": 1,
+            "is_owned_by_current_login": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 653,
+                "felo_tier": "silver",
+                "guid": "HSB4ATDWHSUJAFT3VWTFYWZ6TA",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "is_commissioner": 0,
+                "is_current_login": 1,
+                "manager_id": 1,
+                "nickname": "Kyler"
+              }
+            },
+            "name": "Cobra Ky",
+            "number_of_moves": 10,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 0
+            },
+            "team_id": 1,
+            "team_key": "423.l.496624.t.1",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d28eeaa32ed8ec036a4eff7fbedb865c2e1948aaa66b7fc9fbbdbec19b5d1391.jpg"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 69.64,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 105.51,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/1",
+            "waiver_priority": 3,
+            "win_probability": 0.0
+          }
+        },
+        {
+          "team": {
+            "draft_grade": "A+",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/4/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 593,
+                "felo_tier": "bronze",
+                "guid": "DKE2KWBRFIWPXFAEWPLLRL3G7U",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 4,
+                "nickname": "Taylor"
+              }
+            },
+            "name": "Grogu’s Gang",
+            "number_of_moves": 4,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 2
+            },
+            "team_id": 4,
+            "team_key": "423.l.496624.t.4",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/aa85faeeb16f8cc9eac0da05828a2e98f3e93909668f76c6505897266fe48263.jpg"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 101.94,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 104.15,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/4",
+            "waiver_priority": 11,
+            "win_probability": 1.0
+          }
+        }
+      ],
+      "week": 1,
+      "week_end": "2023-09-11",
+      "week_start": "2023-09-07",
+      "winner_team_key": "423.l.496624.t.4"
+    }
+  },
+  {
+    "matchup": {
+      "is_consolation": 0,
+      "is_matchup_recap_available": 1,
+      "is_playoffs": 0,
+      "is_tied": 0,
+      "matchup_grades": [
+        {
+          "matchup_grade": {
+            "grade": "A-",
+            "team_key": "423.l.496624.t.2"
+          }
+        },
+        {
+          "matchup_grade": {
+            "grade": "D+",
+            "team_key": "423.l.496624.t.9"
+          }
+        }
+      ],
+      "matchup_recap_title": "Bootie Blitz dominates Christian's Team in Week 1 showdown",
+      "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/recap?week=1&mid1=2&mid2=9",
+      "status": "postevent",
+      "teams": [
+        {
+          "team": {
+            "draft_grade": "D",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/2/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 579,
+                "felo_tier": "bronze",
+                "guid": "TS3YIX7VJEVY2QL5ZBOT7BHFKQ",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 2,
+                "nickname": "Andrew"
+              }
+            },
+            "name": "Bootie Blitz",
+            "number_of_moves": 2,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 1
+            },
+            "team_id": 2,
+            "team_key": "423.l.496624.t.2",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_11_a.png"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 113.99,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 105.67,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/2",
+            "waiver_priority": 10,
+            "win_probability": 1.0
+          }
+        },
+        {
+          "team": {
+            "draft_grade": "D",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/9/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 577,
+                "felo_tier": "bronze",
+                "guid": "UJJDSOGSZCUEMTFFCYPLPD2TTU",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 9,
+                "nickname": "Christian"
+              }
+            },
+            "name": "The SkyWalker Saga",
+            "number_of_moves": 9,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 2
+            },
+            "team_id": 9,
+            "team_key": "423.l.496624.t.9",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1_c.png"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 97.58,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 106.23,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/9",
+            "waiver_priority": 12,
+            "win_probability": 0.0
+          }
+        }
+      ],
+      "week": 1,
+      "week_end": "2023-09-11",
+      "week_start": "2023-09-07",
+      "winner_team_key": "423.l.496624.t.2"
+    }
+  },
+  {
+    "matchup": {
+      "is_consolation": 0,
+      "is_matchup_recap_available": 1,
+      "is_playoffs": 0,
+      "is_tied": 0,
+      "matchup_grades": [
+        {
+          "matchup_grade": {
+            "grade": "D",
+            "team_key": "423.l.496624.t.3"
+          }
+        },
+        {
+          "matchup_grade": {
+            "grade": "B+",
+            "team_key": "423.l.496624.t.8"
+          }
+        }
+      ],
+      "matchup_recap_title": "Oops! One Charger Outshines A B CEE DEE in Week 1",
+      "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/recap?week=1&mid1=3&mid2=8",
+      "status": "postevent",
+      "teams": [
+        {
+          "team": {
+            "draft_grade": "C-",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/3/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 622,
+                "felo_tier": "silver",
+                "guid": "A76NGEAVTEYNIPAABGVXRHKC2Q",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 3,
+                "nickname": "Rithvik"
+              }
+            },
+            "name": "A B CEE DEE",
+            "number_of_moves": 6,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 0
+            },
+            "team_id": 3,
+            "team_key": "423.l.496624.t.3",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/8afa378c080122e80cfca99e99d971ce08f7fb59a940403c760d5819f29732c8.jpg"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 69.67,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 103.93,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/3",
+            "waiver_priority": 4,
+            "win_probability": 0.0
+          }
+        },
+        {
+          "team": {
+            "draft_grade": "D+",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/8/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 720,
+                "felo_tier": "gold",
+                "guid": "ZBWJGJQ3EUWMIWHFN5BPBEAKHM",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 8,
+                "nickname": "Adam"
+              }
+            },
+            "name": "The Sanders Administration",
+            "number_of_moves": 8,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 0
+            },
+            "team_id": 8,
+            "team_key": "423.l.496624.t.8",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2_a.png"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 93.29,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 105.01,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/8",
+            "waiver_priority": 5,
+            "win_probability": 1.0
+          }
+        }
+      ],
+      "week": 1,
+      "week_end": "2023-09-11",
+      "week_start": "2023-09-07",
+      "winner_team_key": "423.l.496624.t.8"
+    }
+  },
+  {
+    "matchup": {
+      "is_consolation": 0,
+      "is_matchup_recap_available": 1,
+      "is_playoffs": 0,
+      "is_tied": 0,
+      "matchup_grades": [
+        {
+          "matchup_grade": {
+            "grade": "A-",
+            "team_key": "423.l.496624.t.5"
+          }
+        },
+        {
+          "matchup_grade": {
+            "grade": "D",
+            "team_key": "423.l.496624.t.10"
+          }
+        }
+      ],
+      "matchup_recap_title": "TV Show PowerPoints R Us Dominates Game of Throws in Week 1",
+      "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/recap?week=1&mid1=5&mid2=10",
+      "status": "postevent",
+      "teams": [
+        {
+          "team": {
+            "draft_grade": "F",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/5/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 543,
+                "felo_tier": "bronze",
+                "guid": "JG4KZUT3E7WTLBOH2H43FQTKL4",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 5,
+                "nickname": "Emily"
+              }
+            },
+            "name": "TV Show PowerPoints R Us",
+            "number_of_moves": 5,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 0
+            },
+            "team_id": 5,
+            "team_key": "423.l.496624.t.5",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12_e.png"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 101.41,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 104.48,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/5",
+            "waiver_priority": 2,
+            "win_probability": 1.0
+          }
+        },
+        {
+          "team": {
+            "draft_grade": "A+",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/10/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 575,
+                "felo_tier": "bronze",
+                "guid": "JHIWK7CLI2SZT7VY77BHZLSGV4",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 10,
+                "nickname": "Esha"
+              }
+            },
+            "name": "Game of Throws",
+            "number_of_moves": 2,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 1
+            },
+            "team_id": 10,
+            "team_key": "423.l.496624.t.10",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_5_e.png"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 77.65,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 101.35,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/10",
+            "waiver_priority": 9,
+            "win_probability": 0.0
+          }
+        }
+      ],
+      "week": 1,
+      "week_end": "2023-09-11",
+      "week_start": "2023-09-07",
+      "winner_team_key": "423.l.496624.t.5"
+    }
+  },
+  {
+    "matchup": {
+      "is_consolation": 0,
+      "is_matchup_recap_available": 1,
+      "is_playoffs": 0,
+      "is_tied": 0,
+      "matchup_grades": [
+        {
+          "matchup_grade": {
+            "grade": "A+",
+            "team_key": "423.l.496624.t.6"
+          }
+        },
+        {
+          "matchup_grade": {
+            "grade": "D",
+            "team_key": "423.l.496624.t.7"
+          }
+        }
+      ],
+      "matchup_recap_title": "FANtasy Dominates Now you Cee Dee Now you Don't in Week 1 Showdown",
+      "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/recap?week=1&mid1=6&mid2=7",
+      "status": "postevent",
+      "teams": [
+        {
+          "team": {
+            "draft_grade": "D+",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/6/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 714,
+                "felo_tier": "gold",
+                "guid": "DVUHQOSUXLN6NUIGOQAHHJS6F4",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 6,
+                "nickname": "Fanny"
+              }
+            },
+            "name": "FANtasy",
+            "number_of_moves": 0,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 0
+            },
+            "team_id": 6,
+            "team_key": "423.l.496624.t.6",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/70a11aaffd7a05ed50481debcc90de29701cdc6bf2c9a815275b97069fe8a3a9.jpg"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 120.76,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 99.89,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/6",
+            "waiver_priority": 7,
+            "win_probability": 1.0
+          }
+        },
+        {
+          "team": {
+            "draft_grade": "B+",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/7/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 717,
+                "felo_tier": "gold",
+                "guid": "J5UQHU4WDQ4QQ3W6AB47BBCIDM",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 7,
+                "nickname": "Shivani"
+              }
+            },
+            "name": "footBAHLer ✌🏽",
+            "number_of_moves": 0,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 0
+            },
+            "team_id": 7,
+            "team_key": "423.l.496624.t.7",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_9.png"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 83.8,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 105.97,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/7",
+            "waiver_priority": 1,
+            "win_probability": 0.0
+          }
+        }
+      ],
+      "week": 1,
+      "week_end": "2023-09-11",
+      "week_start": "2023-09-07",
+      "winner_team_key": "423.l.496624.t.6"
+    }
+  },
+  {
+    "matchup": {
+      "is_consolation": 0,
+      "is_matchup_recap_available": 1,
+      "is_playoffs": 0,
+      "is_tied": 0,
+      "matchup_grades": [
+        {
+          "matchup_grade": {
+            "grade": "B+",
+            "team_key": "423.l.496624.t.11"
+          }
+        },
+        {
+          "matchup_grade": {
+            "grade": "D+",
+            "team_key": "423.l.496624.t.12"
+          }
+        }
+      ],
+      "matchup_recap_title": "The Mixon Administration Takes the Win in Week 1",
+      "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/recap?week=1&mid1=11&mid2=12",
+      "status": "postevent",
+      "teams": [
+        {
+          "team": {
+            "draft_grade": "C+",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/11/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 822,
+                "felo_tier": "platinum",
+                "guid": "VNXKVYI5K77AEGRH6YZOTKRKLU",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 11,
+                "nickname": "MB"
+              }
+            },
+            "name": "The Mixon Administration",
+            "number_of_moves": 4,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 0
+            },
+            "team_id": 11,
+            "team_key": "423.l.496624.t.11",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_8_l.png"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 101.84,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 109.16,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/11",
+            "waiver_priority": 8,
+            "win_probability": 1.0
+          }
+        },
+        {
+          "team": {
+            "draft_grade": "B",
+            "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/496624/12/draftrecap",
+            "has_draft_grade": 1,
+            "league_scoring_type": "head",
+            "managers": {
+              "manager": {
+                "felo_score": 626,
+                "felo_tier": "silver",
+                "guid": "RBWW3E7AQ5YWGPV56363VEYAQ4",
+                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                "manager_id": 12,
+                "nickname": "Ceili"
+              }
+            },
+            "name": "The Peng Wins",
+            "number_of_moves": 1,
+            "number_of_trades": 0,
+            "roster_adds": {
+              "coverage_type": "week",
+              "coverage_value": 5,
+              "value": 0
+            },
+            "team_id": 12,
+            "team_key": "423.l.496624.t.12",
+            "team_logos": {
+              "team_logo": {
+                "size": "large",
+                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/b3e19469b8f088ebe905803a3434a9654b8d7a5f0f64e7c39c5e01360ea7be54.jpg"
+              }
+            },
+            "team_points": {
+              "coverage_type": "week",
+              "total": 89.16,
+              "week": 1
+            },
+            "team_projected_points": {
+              "coverage_type": "week",
+              "total": 101.96,
+              "week": 1
+            },
+            "url": "https://football.fantasysports.yahoo.com/f1/496624/12",
+            "waiver_priority": 6,
+            "win_probability": 0.0
+          }
+        }
+      ],
+      "week": 1,
+      "week_end": "2023-09-11",
+      "week_start": "2023-09-07",
+      "winner_team_key": "423.l.496624.t.11"
+    }
+  }
+]
